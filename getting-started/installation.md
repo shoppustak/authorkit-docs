@@ -14,11 +14,11 @@ Complete installation instructions for all AuthorKit plugins.
 ### Compatibility
 
 AuthorKit works with:
-- ✅ Any properly coded WordPress theme
-- ✅ Classic Editor and Gutenberg
-- ✅ Most page builders (Elementor, Beaver Builder, Divi, etc.)
-- ✅ WooCommerce (optional integration)
-- ✅ Multisite installations
+- Any properly coded WordPress theme
+- Classic Editor and Gutenberg
+- Most page builders (Elementor, Beaver Builder, Divi, etc.)
+- WooCommerce (optional integration)
+- Multisite installations
 
 ---
 
@@ -34,7 +34,7 @@ AuthorKit works with:
 4. Click **Install Now**
 5. Click **Activate**
 
-✅ **That's it!** The plugin is now active.
+The plugin is now active.
 
 ### Method 2: Upload via WordPress Admin
 
@@ -59,23 +59,23 @@ AuthorKit works with:
 
 ## Installation Order
 
-⚠️ **Important**: Install plugins in this order:
+**Important**: Install plugins in this order:
 
 ### 1. Install Core First
 ```
-✅ AuthorKit Core (required for all other plugins)
+AuthorKit Core (required for all other plugins)
 ```
 
 ### 2. Install Modules
 ```
-📚 AuthorKit for Books (requires Core)
-⭐ AuthorKit for Reviews (requires Core + Books) - Coming Soon
-🎁 AuthorKit for Contests (requires Core) - Coming Soon
+AuthorKit for Books (requires Core)
+AuthorKit for Reviews (requires Core + Books) - Coming Soon
+AuthorKit for Contests (requires Core) - Coming Soon
 ```
 
 ### 3. Install Premium Add-ons (Optional)
 ```
-💎 Premium modules (require Core + respective free module)
+Premium modules (require Core + respective free module)
 ```
 
 ---
@@ -157,7 +157,7 @@ AuthorKit works with:
 3. Find the plugin and click **Delete**
 4. Confirm deletion
 
-⚠️ **Warning**: This will delete all books, reviews, and settings!
+**Warning**: This will delete all books, reviews, and settings.
 
 ### Data Export Before Uninstall
 

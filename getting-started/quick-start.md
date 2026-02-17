@@ -16,7 +16,7 @@ Get your first book on your website in under 5 minutes!
 4. Click **Install Now** on "AuthorKit Core"
 5. Click **Activate**
 
-✅ Core is now installed!
+Core is now installed.
 
 ## Step 2: Install AuthorKit for Books (1 minute)
 
@@ -25,7 +25,7 @@ Get your first book on your website in under 5 minutes!
 3. Click **Install Now**
 4. Click **Activate**
 
-✅ Books module is now ready!
+Books module is now ready.
 
 ## Step 3: Add Your First Book (2 minutes)
 
@@ -46,7 +46,7 @@ Get your first book on your website in under 5 minutes!
    - Other retailer URLs
 7. Click **Publish**
 
-✅ Your first book is live!
+Your first book is live.
 
 ## Step 4: View Your Book (30 seconds)
 
@@ -66,7 +66,7 @@ Get your first book on your website in under 5 minutes!
 3. Update/Publish the page
 4. View your page to see your books in a grid!
 
-✅ **Done!** Your books are now showcased on your site!
+Your books are now showcased on your site.
 
 ## Next Steps
 
@@ -87,4 +87,4 @@ Now that you have the basics:
 
 ### Video Tutorial
 
-🎥 [Watch the 5-minute setup video](#) *(Coming soon)*
+[Watch the 5-minute setup video](#) *(Coming soon)*

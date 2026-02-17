@@ -4,9 +4,9 @@ AuthorKit is a modular suite of WordPress plugins designed specifically for self
 
 ## What You'll Find Here
 
-📚 **For Authors**: Step-by-step guides to showcase your books, manage reviews, and run giveaways
-🔧 **For Developers**: Complete API documentation, hooks reference, and customization guides
-💡 **For Everyone**: Troubleshooting tips, FAQs, and best practices
+- **For Authors**: Step-by-step guides to showcase your books, manage reviews, and run giveaways
+- **For Developers**: Complete API documentation, hooks reference, and customization guides
+- **For Everyone**: Troubleshooting tips, FAQs, and best practices
 
 ## Quick Links
 
@@ -32,34 +32,34 @@ AuthorKit is a modular suite of WordPress plugins designed specifically for self
 ### AuthorKit Core (Required)
 The foundation plugin providing shared utilities, license management, and settings API.
 
-**Status**: ✅ Available on WordPress.org
+**Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
 
 ### AuthorKit for Books
 Professional book catalog management with 27 custom fields, taxonomies, and Amazon-style displays.
 
-**Status**: ✅ Available on WordPress.org
+**Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
 **Requires**: AuthorKit Core 1.0+
 
 ### AuthorKit for Reviews
 Amazon-style review system with ratings, moderation, and verified purchase badges.
 
-**Status**: 🚧 Coming Q2 2026
+**Status**: Coming Q2 2026
 **License**: Free (GPL v2.0+)
 **Requires**: AuthorKit Core 1.0+, AuthorKit for Books 1.0+
 
 ### AuthorKit for Contests
 Book giveaway and competition manager with entry management and winner selection.
 
-**Status**: 🚧 Coming Q2 2026
+**Status**: Coming Q2 2026
 **License**: Free (GPL v2.0+)
 **Requires**: AuthorKit Core 1.0+
 
 ### Premium Add-ons
 Advanced features like Launch Countdown, Landing Pages, Series Tracker, and more.
 
-**Status**: 🎯 Planned for Q3 2026
+**Status**: Planned for Q3 2026
 **License**: Premium (Commercial)
 **Requires**: AuthorKit Core 1.0+ and respective module plugins
 
@@ -67,12 +67,12 @@ Advanced features like Launch Countdown, Landing Pages, Series Tracker, and more
 
 ## What Makes AuthorKit Different?
 
-✨ **Built for Authors**: Every feature designed specifically for self-publishing authors
-⚡ **Lightning Fast**: Vanilla PHP/JS with zero dependencies
-🎨 **Theme Compatible**: Works with any properly coded WordPress theme
-🔧 **Modular**: Install only what you need
-📖 **Open Source**: Free plugins are GPL licensed
-💪 **Extensible**: Powerful hooks and filters for developers
+- **Built for Authors**: Every feature designed specifically for self-publishing authors
+- **Lightning Fast**: Vanilla PHP/JS with zero dependencies
+- **Theme Compatible**: Works with any properly coded WordPress theme
+- **Modular**: Install only what you need
+- **Open Source**: Free plugins are GPL licensed
+- **Extensible**: Powerful hooks and filters for developers
 
 ---
 
@@ -82,7 +82,7 @@ Advanced features like Launch Countdown, Landing Pages, Series Tracker, and more
 **AuthorKit for Books**: 1.0.0
 **Last Updated**: February 16, 2026
 
-[View Changelog →](changelog.md)
+[View Changelog](changelog.md)
 
 ---
 

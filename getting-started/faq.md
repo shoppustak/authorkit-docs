@@ -9,13 +9,13 @@ AuthorKit is a modular suite of WordPress plugins specifically designed for self
 ### Is AuthorKit free?
 
 **Core and basic modules are free:**
-- ✅ AuthorKit Core - Free
-- ✅ AuthorKit for Books - Free
-- ✅ AuthorKit for Reviews - Free (coming Q2 2026)
-- ✅ AuthorKit for Contests - Free (coming Q2 2026)
+- AuthorKit Core - Free
+- AuthorKit for Books - Free
+- AuthorKit for Reviews - Free (coming Q2 2026)
+- AuthorKit for Contests - Free (coming Q2 2026)
 
 **Premium add-ons are paid:**
-- 💎 Launch Countdown, Landing Pages, Series Tracker, etc. - Paid (coming Q3 2026)
+- Launch Countdown, Landing Pages, Series Tracker, etc. - Paid (coming Q3 2026)
 
 ### Do I need coding skills?
 
@@ -118,12 +118,12 @@ AuthorKit can handle thousands of books without performance issues. We recommend
 ### Does AuthorKit work with page builders?
 
 Yes! Works with:
-- ✅ Elementor
-- ✅ Beaver Builder
-- ✅ Divi
-- ✅ Gutenberg (Block Editor)
-- ✅ WPBakery
-- ✅ Most other builders
+- Elementor
+- Beaver Builder
+- Divi
+- Gutenberg (Block Editor)
+- WPBakery
+- Most other builders
 
 ### Can I use AuthorKit with WooCommerce?
 
@@ -226,7 +226,7 @@ Yes! AuthorKit follows WordPress security best practices. Always keep WordPress 
 2. Check shortcode spelling
 3. Disable conflicting plugins
 
-[View more troubleshooting →](../troubleshooting/common-issues.md)
+[View more troubleshooting](../troubleshooting/common-issues.md)
 
 ---
 
