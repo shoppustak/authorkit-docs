@@ -42,6 +42,14 @@
 * [SEO & Schema](authorkit-books/seo-and-schema.md)
 * [Developer Guide](authorkit-books/developer-guide.md)
 
+## AuthorKit Bookshelf
+
+* [Overview](authorkit-bookshelf/overview.md)
+* [Publishing Books](authorkit-bookshelf/publishing-books.md)
+* [Managing Your Listings](authorkit-bookshelf/managing-listings.md)
+* [Settings & Configuration](authorkit-bookshelf/settings.md)
+* [Browse bookshelf.authorkit.pro](https://bookshelf.authorkit.pro)
+
 ## AuthorKit Reviews
 
 * [Overview](authorkit-reviews/overview.md)

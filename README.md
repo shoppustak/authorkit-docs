@@ -18,6 +18,7 @@ AuthorKit is a modular suite of WordPress plugins designed specifically for self
 ### Popular Guides
 - [Adding Your First Book](authorkit-books/managing-books/adding-first-book.md)
 - [Displaying Books with Shortcodes](authorkit-books/shortcodes/overview.md)
+- [Publishing to Bookshelf](authorkit-bookshelf/publishing-books.md)
 - [Managing Book Reviews](authorkit-reviews/review-management.md)
 - [Running a Book Giveaway](authorkit-contests/creating-contests.md)
 
@@ -37,6 +38,13 @@ The foundation plugin providing shared utilities, license management, and settin
 
 ### AuthorKit Books
 Professional book catalog management with 27 custom fields, taxonomies, and Amazon-style displays.
+
+**Status**: Available on WordPress.org
+**License**: Free (GPL v2.0+)
+**Requires**: AuthorKit Core 1.0+
+
+### AuthorKit Bookshelf
+Curate and showcase books from any author on bookshelf.authorkit.pro. Free discoverability platform with advanced search and filtering.
 
 **Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
