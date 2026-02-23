@@ -45,21 +45,21 @@ Professional book catalog management with 27 custom fields, taxonomies, and Amaz
 ### AuthorKit Reviews
 Amazon-style review system with ratings, moderation, and verified purchase badges.
 
-**Status**: Coming Q2 2026
+**Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
 **Requires**: AuthorKit Core 1.0+, AuthorKit Books 1.0+
 
 ### AuthorKit Contests
 Book giveaway and competition manager with entry management and winner selection.
 
-**Status**: Coming Q2 2026
+**Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
 **Requires**: AuthorKit Core 1.0+
 
-### Premium Add-ons
-Advanced features like Launch Countdown, Landing Pages, Series Tracker, and more.
+### AuthorKit Pro
+Advanced features like Launch Countdown, Landing Pages, Series Tracker, Reader Magnets, and Book Links Hub.
 
-**Status**: Planned for Q3 2026
+**Status**: Available
 **License**: Premium (Commercial)
 **Requires**: AuthorKit Core 1.0+ and respective module plugins
 

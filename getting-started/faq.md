@@ -78,7 +78,7 @@ Use shortcodes! Example:
 ```
 [authorkit_books count="6" columns="3"]
 ```
-[View all shortcode options](../authorkit-for-books/shortcodes/overview.md)
+[View all shortcode options](../authorkit-books/shortcodes/overview.md)
 
 ### Can I customize the book display?
 
