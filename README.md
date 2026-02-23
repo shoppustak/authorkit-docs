@@ -16,10 +16,10 @@ AuthorKit is a modular suite of WordPress plugins designed specifically for self
 - [System Requirements](getting-started/system-requirements.md)
 
 ### Popular Guides
-- [Adding Your First Book](authorkit-for-books/managing-books/adding-first-book.md)
-- [Displaying Books with Shortcodes](authorkit-for-books/shortcodes/overview.md)
-- [Managing Book Reviews](authorkit-for-reviews/review-management.md)
-- [Running a Book Giveaway](authorkit-for-contests/creating-contests.md)
+- [Adding Your First Book](authorkit-books/managing-books/adding-first-book.md)
+- [Displaying Books with Shortcodes](authorkit-books/shortcodes/overview.md)
+- [Managing Book Reviews](authorkit-reviews/review-management.md)
+- [Running a Book Giveaway](authorkit-contests/creating-contests.md)
 
 ### Need Help?
 - [FAQ](getting-started/faq.md)
@@ -35,21 +35,21 @@ The foundation plugin providing shared utilities, license management, and settin
 **Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
 
-### AuthorKit for Books
+### AuthorKit Books
 Professional book catalog management with 27 custom fields, taxonomies, and Amazon-style displays.
 
 **Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
 **Requires**: AuthorKit Core 1.0+
 
-### AuthorKit for Reviews
+### AuthorKit Reviews
 Amazon-style review system with ratings, moderation, and verified purchase badges.
 
 **Status**: Coming Q2 2026
 **License**: Free (GPL v2.0+)
-**Requires**: AuthorKit Core 1.0+, AuthorKit for Books 1.0+
+**Requires**: AuthorKit Core 1.0+, AuthorKit Books 1.0+
 
-### AuthorKit for Contests
+### AuthorKit Contests
 Book giveaway and competition manager with entry management and winner selection.
 
 **Status**: Coming Q2 2026
@@ -79,7 +79,7 @@ Advanced features like Launch Countdown, Landing Pages, Series Tracker, and more
 ## Current Version
 
 **AuthorKit Core**: 1.0.0
-**AuthorKit for Books**: 1.0.0
+**AuthorKit Books**: 1.0.0
 **Last Updated**: February 16, 2026
 
 [View Changelog](changelog.md)

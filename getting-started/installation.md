@@ -26,7 +26,7 @@ AuthorKit works with:
 
 ### Method 1: WordPress.org (Recommended)
 
-**For: AuthorKit Core, AuthorKit for Books** (Free plugins)
+**For: AuthorKit Core, AuthorKit Books** (Free plugins)
 
 1. Log in to WordPress admin
 2. Go to **Plugins → Add New**
@@ -68,9 +68,9 @@ AuthorKit Core (required for all other plugins)
 
 ### 2. Install Modules
 ```
-AuthorKit for Books (requires Core)
-AuthorKit for Reviews (requires Core + Books) - Coming Soon
-AuthorKit for Contests (requires Core) - Coming Soon
+AuthorKit Books (requires Core)
+AuthorKit Reviews (requires Core + Books) - Coming Soon
+AuthorKit Contests (requires Core) - Coming Soon
 ```
 
 ### 3. Install Premium Add-ons (Optional)
@@ -103,9 +103,9 @@ Premium modules (require Core + respective free module)
 
 ### Step 4: Start Using
 
-- **Books**: Go to **AuthorKit for Books → Add New**
+- **Books**: Go to **Books → Add New**
 - **Reviews**: Configure in **AuthorKit → Settings → Reviews**
-- **Contests**: Go to **AuthorKit for Contests → Add New**
+- **Contests**: Go to **Contests → Add New**
 
 ---
 

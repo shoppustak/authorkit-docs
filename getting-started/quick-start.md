@@ -18,10 +18,10 @@ Get your first book on your website in under 5 minutes!
 
 Core is now installed.
 
-## Step 2: Install AuthorKit for Books (1 minute)
+## Step 2: Install AuthorKit Books (1 minute)
 
 1. Still on the **Plugins → Add New** page
-2. Search for "**AuthorKit for Books**"
+2. Search for "**AuthorKit Books**"
 3. Click **Install Now**
 4. Click **Activate**
 
@@ -29,7 +29,7 @@ Books module is now ready.
 
 ## Step 3: Add Your First Book (2 minutes)
 
-1. In your WordPress admin, look for **AuthorKit for Books** in the sidebar
+1. In your WordPress admin, look for **Books** in the sidebar
 2. Click **Add New Book**
 3. Fill in the basics:
    - **Title**: Your book's title
@@ -72,10 +72,10 @@ Your books are now showcased on your site.
 
 Now that you have the basics:
 
-- [Add more book details](../authorkit-for-books/managing-books/book-meta-fields.md) (ratings, formats, series, etc.)
-- [Customize your book display](../authorkit-for-books/displaying-books/styling.md)
-- [Learn all shortcode options](../authorkit-for-books/shortcodes/overview.md)
-- [Set up book categories and series](../authorkit-for-books/taxonomies/overview.md)
+- [Add more book details](../authorkit-books/managing-books/book-meta-fields.md) (ratings, formats, series, etc.)
+- [Customize your book display](../authorkit-books/displaying-books/styling.md)
+- [Learn all shortcode options](../authorkit-books/shortcodes/overview.md)
+- [Set up book categories and series](../authorkit-books/taxonomies/overview.md)
 
 ---
 

@@ -14,9 +14,9 @@
 | Plugin                  | Requires                          |
 |-------------------------|-----------------------------------|
 | AuthorKit Core          | WordPress 5.0+, PHP 7.0+          |
-| AuthorKit for Books     | Core 1.0+                         |
-| AuthorKit for Reviews   | Core 1.0+, Books 1.0+             |
-| AuthorKit for Contests  | Core 1.0+                         |
+| AuthorKit Books         | Core 1.0+                         |
+| AuthorKit Reviews       | Core 1.0+, Books 1.0+             |
+| AuthorKit Contests      | Core 1.0+                         |
 | Premium Add-ons         | Core 1.0+ + respective free module |
 
 ## Browser Compatibility

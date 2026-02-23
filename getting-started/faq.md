@@ -10,9 +10,9 @@ AuthorKit is a modular suite of WordPress plugins specifically designed for self
 
 **Core and basic modules are free:**
 - AuthorKit Core - Free
-- AuthorKit for Books - Free
-- AuthorKit for Reviews - Free (coming Q2 2026)
-- AuthorKit for Contests - Free (coming Q2 2026)
+- AuthorKit Books - Free
+- AuthorKit Reviews - Free (coming Q2 2026)
+- AuthorKit Contests - Free (coming Q2 2026)
 
 **Premium add-ons are paid:**
 - Launch Countdown, Landing Pages, Series Tracker, etc. - Paid (coming Q3 2026)
@@ -39,9 +39,9 @@ Yes! AuthorKit works with any properly coded WordPress theme. If you experience 
 ### In what order should I install plugins?
 
 1. AuthorKit Core (required first)
-2. AuthorKit for Books
-3. AuthorKit for Reviews (when available)
-4. AuthorKit for Contests (when available)
+2. AuthorKit Books
+3. AuthorKit Reviews (when available)
+4. AuthorKit Contests (when available)
 5. Premium add-ons (if purchased)
 
 ### How do I update AuthorKit?
@@ -222,7 +222,7 @@ Yes! AuthorKit follows WordPress security best practices. Always keep WordPress 
 ### Shortcodes showing as text
 
 **Solutions**:
-1. Ensure AuthorKit for Books is activated
+1. Ensure AuthorKit Books is activated
 2. Check shortcode spelling
 3. Disable conflicting plugins
 
