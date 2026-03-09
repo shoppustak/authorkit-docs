@@ -1,4 +1,4 @@
-# Google Apps Script Setup
+# Managing Entries
 
 ## Overview
 

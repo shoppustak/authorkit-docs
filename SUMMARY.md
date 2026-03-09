@@ -63,7 +63,7 @@
 
 * [Overview](authorkit-contests/overview.md)
 * [Creating Contests](authorkit-contests/creating-contests.md)
-* [Google Apps Script Setup](authorkit-contests/google-script-setup.md)
+* [Managing Entries](authorkit-contests/managing-entries.md)
 * [Winner Selection](authorkit-contests/winner-selection.md)
 * [Email Notifications](authorkit-contests/email-notifications.md)
 * [Developer Guide](authorkit-contests/developer-guide.md)
