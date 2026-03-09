@@ -94,7 +94,7 @@ If you have access to your WordPress files:
 // 7. Click Deploy and copy the Web app URL
 // 8. Paste the URL in AuthorKit → Contests → Settings
 //
-// DOCUMENTATION: https://docs.authorkit.pro/modules/contests-google-script-setup
+// DOCUMENTATION: https://docs.authorkit.pro/authorkit-contests/managing-entries
 // ============================================
 
 // ============================================
