@@ -30,46 +30,32 @@ AuthorKit is a modular suite of WordPress plugins designed specifically for self
 
 ## The AuthorKit Family
 
-### AuthorKit Core (Required)
-The foundation plugin providing shared utilities, license management, and settings API.
+### AuthorKit Free
+Complete author platform with Books, Reviews, and Bookshelf features (with limits in free tier).
+
+**What's Included:**
+- Book management with 27 custom fields and Amazon-style displays
+- Review system with ratings and moderation
+- Bookshelf integration for discoverability on bookshelf.authorkit.pro
 
 **Status**: Available on WordPress.org
 **License**: Free (GPL v2.0+)
-
-### AuthorKit Books
-Professional book catalog management with 27 custom fields, taxonomies, and Amazon-style displays.
-
-**Status**: Available on WordPress.org
-**License**: Free (GPL v2.0+)
-**Requires**: AuthorKit Core 1.0+
-
-### AuthorKit Bookshelf
-Curate and showcase books from any author on bookshelf.authorkit.pro. Free discoverability platform with advanced search and filtering.
-
-**Status**: Available on WordPress.org
-**License**: Free (GPL v2.0+)
-**Requires**: AuthorKit Core 1.0+
-
-### AuthorKit Reviews
-Amazon-style review system with ratings, moderation, and verified purchase badges.
-
-**Status**: Available on WordPress.org
-**License**: Free (GPL v2.0+)
-**Requires**: AuthorKit Core 1.0+, AuthorKit Books 1.0+
-
-### AuthorKit Contests
-Book giveaway and competition manager with entry management and winner selection.
-
-**Status**: Available on WordPress.org
-**License**: Free (GPL v2.0+)
-**Requires**: AuthorKit Core 1.0+
+**Limits**: 10 books maximum, 3 reviews per book
 
 ### AuthorKit Pro
-Advanced features like Launch Countdown, Landing Pages, Series Tracker, Reader Magnets, and Book Links Hub.
+Premium add-on with Contests and Reader Magnets modules, plus unlimited books/reviews.
+
+**What's Included:**
+- Unlimited books and reviews (no limits)
+- Contests module - Run book giveaways and competitions
+- Reader Magnets module - Deliver lead magnets and track downloads
+- Priority email support
+- All future updates included
 
 **Status**: Available
-**License**: Premium (Commercial)
-**Requires**: AuthorKit Core 1.0+ and respective module plugins
+**License**: Pro-only (Commercial)
+**Requires**: AuthorKit Free plugin installed first
+**Pricing**: See [pricing page](getting-started/pricing.md)
 
 ---
 

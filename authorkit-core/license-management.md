@@ -19,13 +19,29 @@ Manage your Free or Pro license for AuthorKit. All license operations are handle
 
 **Purchase at authorkit.pro:**
 - ✅ Unlimited books and reviews
-- ✅ Pro modules (Pages, Launch, Contests)
+- ✅ Pro modules (Contests and Reader Magnets)
 - ✅ Priority email support
 - ✅ Automatic updates
-- ✅ 1 year of updates + support
-- ✅ Valid for 1 site
 
-**Price:** $79/year (renewable annually)
+**Pricing Options:**
+
+| Product | Sites | Founding Price | Regular Price | Duration |
+|---------|-------|----------------|---------------|----------|
+| **Pro Annual** | 1 | $49/year | $79/year | Annual subscription |
+| **Pro Lifetime** | 1 | $149 one-time | $249 one-time | Lifetime access |
+| **Pro Max Annual** | 5 | $99/year | $149/year | Annual subscription |
+| **Pro Max Lifetime** | 5 | $249 one-time | $399 one-time | Lifetime access |
+
+**Founding Member Program:**
+The first 150 customers receive founding member pricing permanently (as long as license remains active). Once 150 founding spots are filled, regular pricing applies to new customers.
+
+**Multi-Site Licensing:**
+- **Pro** (1 site): ONE license key, activate on 1 WordPress site
+- **Pro Max** (5 sites): ONE license key, activate on up to 5 different WordPress sites
+- You use the SAME key on all sites (not 5 separate keys)
+- Deactivate from any site to free up a slot for another site
+
+This is the industry standard used by WooCommerce, Gravity Forms, and Advanced Custom Fields.
 
 ## Activating a Pro License
 
@@ -47,14 +63,14 @@ Manage your Free or Pro license for AuthorKit. All license operations are handle
 - Status: "Active"
 - Tier: "Pro"
 - Expiration date shown
-- Pro modules appear in dashboard
+- Pro modules appear in dashboard (Contests, Magnets)
 
 ### Step 3: Verify Activation
 
 Check that Pro features unlocked:
 
 1. Go to **AuthorKit → Dashboard**
-2. Pages, Launch, Contests modules now visible
+2. Contests and Magnets modules now visible
 3. Go to **Books → All Books**
 4. No 10-book limit notice
 
@@ -95,7 +111,7 @@ Move license to another site:
 4. Tier reverts to Free immediately
 
 **What happens:**
-- Pro modules hidden (Pages, Launch, Contests)
+- Pro modules hidden (Contests, Magnets)
 - Books limited to 10 visible
 - Reviews limited to 3 per book
 - Updates revert to WordPress.org
@@ -264,7 +280,7 @@ POST https://authorkit.pro/api/validate-license
 **What happens on deactivation:**
 
 1. **Tier reverts to Free**
-   - Pro modules hidden (Pages, Launch, Contests)
+   - Pro modules hidden (Contests, Magnets)
    - Limits enforced
 
 2. **Visibility enforcement**

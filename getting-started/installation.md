@@ -26,25 +26,27 @@ AuthorKit works with:
 
 ### Method 1: WordPress.org (Recommended)
 
-**For: AuthorKit Core, AuthorKit Books** (Free plugins)
+**For: AuthorKit Free plugin**
 
 1. Log in to WordPress admin
 2. Go to **Plugins → Add New**
-3. Search for the plugin name
+3. Search for "AuthorKit"
 4. Click **Install Now**
 5. Click **Activate**
 
-The plugin is now active.
+The free plugin is now active with Books, Reviews, and Bookshelf features (with limits).
 
 ### Method 2: Upload via WordPress Admin
 
-**For: Premium plugins or manual installation**
+**For: AuthorKit Pro add-on or manual installation**
 
-1. Download the plugin ZIP file
+1. Download the plugin ZIP file from your purchase email
 2. Go to **Plugins → Add New → Upload Plugin**
 3. Click **Choose File** and select the ZIP
 4. Click **Install Now**
 5. Click **Activate**
+
+**Important for Pro:** AuthorKit Free must be installed and activated FIRST before installing Pro add-on.
 
 ### Method 3: FTP Upload
 
@@ -59,24 +61,51 @@ The plugin is now active.
 
 ## Installation Order
 
-**Important**: Install plugins in this order:
+**Important**: Install in this order:
 
-### 1. Install Core First
+### 1. Install AuthorKit Free First
 ```
-AuthorKit Core (required for all other plugins)
-```
-
-### 2. Install Modules
-```
-AuthorKit Books (requires Core)
-AuthorKit Reviews (requires Core + Books) - Coming Soon
-AuthorKit Contests (requires Core) - Coming Soon
+AuthorKit Free (from WordPress.org)
+  ↳ Includes: Books, Reviews, Bookshelf (with limits)
 ```
 
-### 3. Install Premium Add-ons (Optional)
+### 2. Install AuthorKit Pro (Optional)
 ```
-Premium modules (require Core + respective free module)
+AuthorKit Pro add-on (purchased from authorkit.pro)
+  ↳ Requires: AuthorKit Free must be installed first
+  ↳ Adds: Contests module, Reader Magnets module, removes limits
 ```
+
+**Pro is a companion plugin** - it extends AuthorKit Free with additional features. It's not a standalone plugin.
+
+---
+
+## Installing Pro Add-on
+
+### Prerequisites
+
+Before installing Pro:
+1. Install and activate **AuthorKit Free** from WordPress.org
+2. Purchase a Pro license from [authorkit.pro/pricing](https://authorkit.pro/pricing)
+3. Check your email for the download link and license key
+
+### Installation Steps
+
+1. **Download Pro ZIP** from your purchase confirmation email
+2. Go to **Plugins → Add New → Upload Plugin** in WordPress
+3. Choose the `authorkit-pro.zip` file
+4. Click **Install Now**
+5. Click **Activate**
+6. Go to **AuthorKit → Settings → License**
+7. Enter your license key and click **Activate License**
+
+### Verify Pro is Working
+
+After activation, you should see:
+- **AuthorKit → Contests** menu item appears
+- **AuthorKit → Magnets** menu item appears
+- No more 10-book limit on Books page
+- License status shows "Active" and "Pro" tier
 
 ---
 
@@ -85,27 +114,29 @@ Premium modules (require Core + respective free module)
 ### Step 1: Verify Installation
 
 1. Go to **Plugins** in WordPress admin
-2. Confirm all plugins show as "Active"
+2. Confirm AuthorKit Free (and Pro if purchased) show as "Active"
 3. Look for the **AuthorKit** menu in the sidebar
 
 ### Step 2: Configure Settings
 
 1. Go to **AuthorKit → Settings**
 2. Review general settings
-3. Configure license keys (for premium plugins)
+3. Configure Bookshelf sync preferences
 
-### Step 3: Activate License (Premium Only)
+### Step 3: Activate Pro License (Pro Users Only)
 
-1. Go to **AuthorKit → License**
+If you purchased Pro:
+1. Go to **AuthorKit → Settings → License**
 2. Enter your license key
 3. Click **Activate License**
-4. Confirm "License Active" status
+4. Confirm "License Active" status and "Pro" tier
 
 ### Step 4: Start Using
 
-- **Books**: Go to **Books → Add New**
-- **Reviews**: Configure in **AuthorKit → Settings → Reviews**
-- **Contests**: Go to **Contests → Add New**
+- **Books**: Go to **Books → Add New** (Free: 10 max, Pro: unlimited)
+- **Reviews**: Add reviews to any book (Free: 3 per book, Pro: unlimited)
+- **Contests**: Go to **Contests → Add New** (Pro only)
+- **Magnets**: Go to **Magnets → Add New** (Pro only)
 
 ---
 
@@ -118,11 +149,11 @@ Premium modules (require Core + respective free module)
 2. Clear your browser cache
 3. Check for JavaScript errors in browser console
 
-### "Plugin requires AuthorKit Core" Error
+### "Plugin requires AuthorKit Free" Error
 
 **Solution**:
-1. Install and activate AuthorKit Core first
-2. Then activate the module plugin
+1. Install and activate AuthorKit Free from WordPress.org first
+2. Then install and activate AuthorKit Pro add-on
 
 ### White Screen After Activation
 
