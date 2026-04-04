@@ -7,6 +7,8 @@
 * [5-Minute Quick Start](getting-started/quick-start.md)
 * [Installation Guide](getting-started/installation.md)
 * [System Requirements](getting-started/system-requirements.md)
+* [Pricing & Plans](getting-started/pricing.md)
+* [Multi-Site Activation](getting-started/multi-site-activation.md)
 * [FAQ](getting-started/faq.md)
 
 ## AuthorKit Core
@@ -59,7 +61,7 @@
 * [Settings](authorkit-reviews/settings.md)
 * [Developer Guide](authorkit-reviews/developer-guide.md)
 
-## AuthorKit Contests
+## AuthorKit Contests (Pro)
 
 * [Overview](authorkit-contests/overview.md)
 * [Creating Contests](authorkit-contests/creating-contests.md)
@@ -67,6 +69,14 @@
 * [Winner Selection](authorkit-contests/winner-selection.md)
 * [Email Notifications](authorkit-contests/email-notifications.md)
 * [Developer Guide](authorkit-contests/developer-guide.md)
+
+## AuthorKit Magnets (Pro)
+
+* [Overview](authorkit-magnets/overview.md)
+* [Creating Magnets](authorkit-magnets/creating-magnets.md)
+* [Managing Downloads](authorkit-magnets/managing-downloads.md)
+* [Settings](authorkit-magnets/settings.md)
+* [Developer Guide](authorkit-magnets/developer-guide.md)
 
 ## Customization
 
