@@ -77,22 +77,3 @@
 * [Managing Downloads](authorkit-magnets/managing-downloads.md)
 * [Settings](authorkit-magnets/settings.md)
 * [Developer Guide](authorkit-magnets/developer-guide.md)
-
-## Customization
-
-* [Theme Compatibility](customization/theme-compatibility.md)
-* [Styling & CSS](customization/styling-and-css.md)
-* [Template Customization](customization/template-customization.md)
-* [Translation](customization/translation.md)
-
-## Advanced Topics
-
-* [Performance Optimization](advanced-topics/performance-optimization.md)
-* [Multisite](advanced-topics/multisite.md)
-* [Import / Export](advanced-topics/import-export.md)
-* [REST API](advanced-topics/rest-api.md)
-
-## Troubleshooting
-
-* [Common Issues](troubleshooting/common-issues.md)
-* [Changelog](troubleshooting/changelog.md)
